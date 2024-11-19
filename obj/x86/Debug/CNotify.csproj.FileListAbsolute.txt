@@ -1,0 +1,5 @@
+/home/mel/Documents/csharp/CNotify/CNotify/CNotify/bin/Debug/CNotify.exe
+/home/mel/Documents/csharp/CNotify/CNotify/CNotify/bin/Debug/CNotify.pdb
+/home/mel/Documents/csharp/CNotify/CNotify/CNotify/obj/x86/Debug/CNotify.csproj.CoreCompileInputs.cache
+/home/mel/Documents/csharp/CNotify/CNotify/CNotify/obj/x86/Debug/CNotify.exe
+/home/mel/Documents/csharp/CNotify/CNotify/CNotify/obj/x86/Debug/CNotify.pdb

@@ -1,0 +1,3 @@
+/home/mel/Documents/csharp/CNotify/CNotify/CNotify/bin/Release/CNotify.exe
+/home/mel/Documents/csharp/CNotify/CNotify/CNotify/obj/x86/Release/CNotify.csproj.CoreCompileInputs.cache
+/home/mel/Documents/csharp/CNotify/CNotify/CNotify/obj/x86/Release/CNotify.exe
